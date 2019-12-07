@@ -1,5 +1,5 @@
 """
-Author: Ko-Shin Chen
+Author: Tejaswini Dhupad
 Algorithmic Thinking (Part 2)
 Application 4: Applications to Genomics and Beyond
 """
