@@ -1,5 +1,5 @@
 """
-Author: Ko-Shin Chen
+Author:Tejaswini Dhupad
 Algorithmic Thinking (Part 1)
 Project 1: Degree Distributions for Graphs
 Application 1: Analysis of Citation Graphs
