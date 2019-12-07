@@ -1,5 +1,5 @@
 '''
-Author: Ko-Shin Chen
+Author: Tejaswini Dhupad
 Algorithmic Thinking (Part 1)
 Project 2: Connected Components and Graph Resilience
 '''
