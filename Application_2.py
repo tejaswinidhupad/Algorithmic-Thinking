@@ -1,5 +1,5 @@
 '''
-Author: Ko-Shin Chen
+Author:Tejaswini Dhupad
 Algorithmic Thinking (Part 1)
 Application 2: Analysis of a Computer Network
 '''
