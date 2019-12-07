@@ -1,5 +1,5 @@
 """
-Author: Ko-Shin Chen
+Author: Tejaswini Dhupad
 Algorithmic Thinking (Part 2)
 Project 4: Computing Alignments of Sequences
 """
