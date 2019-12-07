@@ -1,5 +1,5 @@
 '''
-Author: Ko-Shin Chen
+Author:Tejaswini Dhupad
 Algorithmic Thinking (Part 2)
 Project 3: Closest Pairs and Clustering Algorithms
 Application 3: Comparison of Clustering Algorithms
